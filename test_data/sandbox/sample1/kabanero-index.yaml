@@ -1,7 +1,7 @@
 apiVersion: v2
 triggers:
  - description: triggers for this collection
-   sha256: cf856cc7dcf82627348ec2c625cd4f3b4dcaeedd0c28e1c5eef7351f0903d3c5
+   sha256: 158814478c78b4affd0a7b238279a0aef8202cd42beccfa09c5c967b3fd0f54d
    url: https://raw.githubusercontent.com/garypicher/kabanero-events/garytest/test_data/sandbox/sample1/sample1.tar.gz
 stacks:
 - default-image: java-microprofile
